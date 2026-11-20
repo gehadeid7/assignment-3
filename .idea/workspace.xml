@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddfc5fad-86ef-4cdb-8db9-bcacbd6ef2f7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000601145013863" />
+      <entry key="MS500" value="1.241214670983653" />
+      <entry key="S2" value="2.2357055015078595" />
+      <entry key="S5" value="3.044532204468281" />
+      <entry key="S10" value="3.46475570691909" />
+      <entry key="S30" value="3.8075166663908564" />
+      <entry key="S60" value="3.9545954541225337" />
+      <entry key="M2" value="4.4113492439839295" />
+      <entry key="M5" value="5.6655708227280455" />
+      <entry key="M10" value="6.586567336949279" />
+      <entry key="M15" value="6.992167759428128" />
+      <entry key="M30" value="7.460093374489546" />
+      <entry key="H1" value="7.7203896828448855" />
+      <entry key="H2" value="7.857692880490398" />
+      <entry key="H4" value="7.928209637689533" />
+      <entry key="D1" value="7.987945518001036" />
+      <entry key="W1" value="7.998275728374618" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8710631205183976" />
+      <entry key="MS500" value="1.2063826876233459" />
+      <entry key="S2" value="2.2195600271293396" />
+      <entry key="S5" value="3.0357000960803284" />
+      <entry key="S10" value="3.459721849862428" />
+      <entry key="S30" value="3.8056673905975713" />
+      <entry key="S60" value="3.95351572022667" />
+      <entry key="M2" value="4.410279354163852" />
+      <entry key="M5" value="5.664503530800407" />
+      <entry key="M10" value="6.585794538102901" />
+      <entry key="M15" value="6.991582001418217" />
+      <entry key="M30" value="7.459759701010433" />
+      <entry key="H1" value="7.720211481111606" />
+      <entry key="H2" value="7.857600779798594" />
+      <entry key="H4" value="7.928162816710794" />
+      <entry key="D1" value="7.987937605676141" />
+      <entry key="W1" value="7.9982745953536005" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3MNQDHG4V75zGPsez5ZFHRfMv6M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Dart Command Line App.num_eight.dart.executor": "Run",
+    "Dart Command Line App.num_five.dart.executor": "Run",
+    "Dart Command Line App.num_four.dart.executor": "Run",
+    "Dart Command Line App.num_nine.dart.executor": "Run",
+    "Dart Command Line App.num_one.dart.executor": "Run",
+    "Dart Command Line App.num_seven.dart.executor": "Run",
+    "Dart Command Line App.num_six.dart.executor": "Run",
+    "Dart Command Line App.num_ten.dart.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/assignments/assignmets",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Dart Command Line App.num_ten.dart">
+    <configuration name="num_eight.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_eight.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_nine.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_nine.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_one.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_one.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_seven.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_seven.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_six.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_six.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="num_ten.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bin/num_ten.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in num_one" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.num_ten.dart" />
+        <item itemvalue="Dart Command Line App.num_nine.dart" />
+        <item itemvalue="Dart Command Line App.num_eight.dart" />
+        <item itemvalue="Dart Command Line App.num_seven.dart" />
+        <item itemvalue="Dart Command Line App.num_six.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddfc5fad-86ef-4cdb-8db9-bcacbd6ef2f7" name="Changes" comment="" />
+      <created>1795188428024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795188428024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
